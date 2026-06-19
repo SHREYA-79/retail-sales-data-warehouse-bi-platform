@@ -11,17 +11,23 @@ The project follows a dimensional modeling approach using a star-schema data war
 
 ## Project Architecture
 
-CSV Files
-↓
-SQL Server Database
-↓
-Star Schema Data Warehouse
-↓
-Analytical SQL Layer
-↓
-Power BI Semantic Model
-↓
-Executive & Customer Dashboards
+```mermaid
+flowchart TD
+    A[CSV Files]
+    B[SQL Server Database]
+    C[Star Schema Data Warehouse]
+    D[Analytical SQL Layer]
+    E[Power BI Semantic Model]
+    F[Executive Sales Dashboard]
+    G[Customer Intelligence Dashboard]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    E --> G
+```
 
 ## Data Model
 
