@@ -28,7 +28,24 @@ flowchart TD
     E --> F
     E --> G
 ```
+## Dataset
 
+The project uses three datasets structured according to a dimensional data model:
+
+### Fact Table
+- fact_sales.csv
+
+### Dimension Tables
+- dim_customers.csv
+- dim_products.csv
+
+### Dataset Size
+
+- Customers: 18K+
+- Orders: 27K+
+- Revenue: ₹29.36M
+- Units Sold: 60K+
+  
 ## Data Model
 
 ### Fact Table
