@@ -85,8 +85,12 @@ Executive & Customer Dashboards
 - Average customer lifespan was 5.17 months
 - Average revenue per customer was ₹1.59K
 
-  ## Author
+## Author
 
-Shreya Reddy
+**Shreya Reddy**
 
-Built using SQL Server, Power BI, DAX, and Dimensional Data Modeling.
+Built an end-to-end Retail Sales Data Warehouse & Business Intelligence Platform leveraging SQL Server, Dimensional Modeling, Advanced SQL Analytics, Power BI, and DAX.
+
+### Core Competencies
+
+`SQL Server` • `Data Warehousing` • `Star Schema` • `Power BI` • `DAX` • `Window Functions` • `Business Intelligence`
